@@ -1,11 +1,11 @@
 # housing-price-prediction
 
-Numpy(import numpy as np):
-•	Mục đích: Numpy là một thư viện tính toán số cho Python. Nó cung cấp hỗ trợ cho các mảng đa chiều và ma trận lớn, cùng với các hàm toán học để thực hiện các phép toán trên các mảng này.
-•	Chức năng: Numpy được sử dụng cho các phép toán số, thay đối mảng, đại số tuyến tính, tạo số ngẫu nhiên và các phép tính toán toán học khác.
+#Numpy(import numpy as np):
+-	Mục đích: Numpy là một thư viện tính toán số cho Python. Nó cung cấp hỗ trợ cho các mảng đa chiều và ma trận lớn, cùng với các hàm toán học để thực hiện các phép toán trên các mảng này.
+-	Chức năng: Numpy được sử dụng cho các phép toán số, thay đối mảng, đại số tuyến tính, tạo số ngẫu nhiên và các phép tính toán toán học khác.
 Pandas (import pandas as pd):
-•	Mục đích: Pandas là một thư viện xử lý và phân tích dữ liệu cho Python. Nó cung cấp các cấu trúc dữ liệu như Series và DataFrame để thực hiện các phép xử lý và phân tích dữ liệu một cách hiệu quả.
-•	Chức năng: Pandas thường được sử dụng để đọc và ghi dữ liệu ở các định dạng khác nhau (CSV,Excel, SQL), làm sạch dữ liệu, lọc dữ liệu, nhóm dữ liệu, kết hợp và phân tích thống kê cơ bản.
+-	Mục đích: Pandas là một thư viện xử lý và phân tích dữ liệu cho Python. Nó cung cấp các cấu trúc dữ liệu như Series và DataFrame để thực hiện các phép xử lý và phân tích dữ liệu một cách hiệu quả.
+-	Chức năng: Pandas thường được sử dụng để đọc và ghi dữ liệu ở các định dạng khác nhau (CSV,Excel, SQL), làm sạch dữ liệu, lọc dữ liệu, nhóm dữ liệu, kết hợp và phân tích thống kê cơ bản.
 
 Seaborn (import seaborn as sns):
 Mục đích: Seaborn là một thư viện trực quan hóa dữ liệu dựa trên Matplotlib. Nó cung cấp một giao diện cấp cao để tạo đổ thị thống kê hấp dẫn và thông tin.
